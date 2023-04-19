@@ -473,7 +473,7 @@ Output:
  
 #4. SMSActivity.java
 
-![image](https://user-images.githubusercontent.com/122344020/232997925-780640e7-11fa-4fa1-b26d-0f5900a57121.png)
+![image](https://user-images.githubusercontent.com/122344020/233000111-28504bdf-b7bd-4636-a3ac-abfd949bad84.png)
 
 #5. After clicking send SMS button
 

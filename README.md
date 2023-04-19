@@ -52,7 +52,8 @@ Activity_main.xml
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-MainActivity.java
+#MainActivity.java
+
 package com.example.telephonymethodsdemo;
 
 import android.Manifest;
@@ -458,30 +459,25 @@ public class SMSActivity extends AppCompatActivity {
 
  
 Output:
-1.MainActivity.java 
- ![image](https://user-images.githubusercontent.com/122344020/232997791-8b96c90d-36c6-4a1c-8dee-436aadf5a3d4.png)
+#1.MainActivity.java 
 
-
-
-2.  EmailActivity.java
+![image](https://user-images.githubusercontent.com/122344020/232997791-8b96c90d-36c6-4a1c-8dee-436aadf5a3d4.png)
  
+#2.  EmailActivity.java
+
 ![image](https://user-images.githubusercontent.com/122344020/232997845-5b6b4708-4412-4d73-b210-72f25f2f37ec.png)
 
- 
- 3. On clicking compose email button
- ![image](https://user-images.githubusercontent.com/122344020/232997894-43be549b-12b1-467d-b215-d9948079f5ee.png)
+#3. On clicking compose email button
 
+![image](https://user-images.githubusercontent.com/122344020/232997894-43be549b-12b1-467d-b215-d9948079f5ee.png)
  
-4. SMSActivity.java
-  
- ![image](https://user-images.githubusercontent.com/122344020/232997925-780640e7-11fa-4fa1-b26d-0f5900a57121.png)
+#4. SMSActivity.java
 
-5. After clicking send SMS button:
- 
- ![image](https://user-images.githubusercontent.com/122344020/232997963-ca1fa360-637f-442a-a183-0c44cda2c681.png)
+![image](https://user-images.githubusercontent.com/122344020/232997925-780640e7-11fa-4fa1-b26d-0f5900a57121.png)
 
- 
- 
- 
+#5. After clicking send SMS button
+
+![image](https://user-images.githubusercontent.com/122344020/232997963-ca1fa360-637f-442a-a183-0c44cda2c681.png)
+
 Result:
 Thus, the application to show telephony methods has been build and executed successfully. 
